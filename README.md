@@ -23,3 +23,5 @@ MATERIAL
 *1 Resistencia de 220 Ohms
 *1 Buzzer
 *1 Protoboard
+
+![Imagen](https://github.com/HernanMX/SistemaAlertaNotificador/blob/master/sistema2.jpeg)
