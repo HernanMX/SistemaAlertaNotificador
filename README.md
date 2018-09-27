@@ -4,14 +4,14 @@ Practica #2 "Sistema Notificador de Individuos"
 
 Software
 --------
-+Arduino IDE
++ Arduino IDE
 
-+Ubuntu 16.04
++ Ubuntu 16.04
 
 
 Librerias
 ---------
-+LowPower.h
++ LowPower.h
 
 
 Descripción del proyecto
@@ -27,16 +27,17 @@ volver a ser el minimo.
 
 MATERIAL:
 ---------
-+1 Arduino uno
++ 1 Arduino uno
 
-+1 LED
++ 1 LED
 
-+1 Red Switch
++ 1 Red Switch
 
-+1 Resistencia de 220 Ohms
++ 1 Resistencia de 220 Ohms
 
-+1 Buzzer
++ 1 Buzzer
 
-*1 Protoboard
++ 1 Protoboard
 
-![Imagen](https://github.com/HernanMX/SistemaAlertaNotificador/blob/master/sistema2.jpeg)
+![Imagen](https://github.com/HernanMX/SistemaAlertaNotificador/blob/master/sistema21.jpeg)
+![Imagen](https://github.com/HernanMX/SistemaAlertaNotificador/blob/master/sistema22.jpeg)
